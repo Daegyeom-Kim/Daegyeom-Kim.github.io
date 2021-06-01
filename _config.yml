@@ -15,9 +15,9 @@ timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Gyeom's Blog                          # the main title
+title: Daegyeom, Kim                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Ph.D Student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -31,7 +31,7 @@ github:
   username: daegyeom-kim             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Daegyeom Kim            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -40,7 +40,7 @@ social:
   email: gyeom_91@korea.ac.kr             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/daegyeom_kim      # change to your twitter homepage
     - https://github.com/daegyeom-kim       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -77,7 +77,8 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://lh3.google.com/u/0/ogw/ADGmqu_Jkv3O6T74bn8lhLhluTFZBs3B_DeRPhhirRv_=s192-c-mo
+#https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
