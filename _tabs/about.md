@@ -5,8 +5,10 @@ order: 4
 ---
 
 ## Daegyeom, Kim
-Ph.D Student (e-mail: gyeom_91@korea.ac.kr)
-Department of Electronics and Information Technology, Korea University, Sejong, Republic of Korea
+Ph.D Student
+Department of Electronics and Information Technology,
+Korea University, Sejong, Republic of Korea
+E-mail: gyeom_91@korea.ac.kr
 
 ## Research Interests
 - Medical imaging processing
